@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tiktok-clone",
-    "slug": "tiktok-clone",
+    "name": "tik-tok",
+    "slug": "tik-tok",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
